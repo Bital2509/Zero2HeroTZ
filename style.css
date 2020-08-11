@@ -1,0 +1,11 @@
+.disable {
+    height: 0;
+    overflow: hidden;
+    transition: all .5s;
+    border: 0;
+}
+.active{
+    height: 80px;
+    overflow: hidden;
+    transition: all .5s;
+}
